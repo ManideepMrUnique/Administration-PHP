@@ -65,7 +65,7 @@
   <div class="row">
     <div class="col-md-12">
       <div class="well" >
-        <center style="font-size: 30px;"><strong>Welcome to Intellify</strong></center>
+        <center style="font-size: 30px;"><strong>Welcome to Student Details Management</strong></center>
       </div>
     </div>
   </div>
