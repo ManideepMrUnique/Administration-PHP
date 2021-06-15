@@ -73,7 +73,7 @@
     <div class="col-md-6" style="background-image:url('view/Images/2.jpeg');">
       <form method="post" action="">
         <br><br><br><br><br><br><br><br><br><br><br><br>
-      <button id="signin" class="btn btn-info btn-lg" name="signin">Teacher SignIn</button><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+      <button id="signin" class="btn btn-info btn-lg" name="signin">Administrator SignIn</button><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
       <?php
         if(isset($_POST['signin']))
         {
@@ -85,7 +85,7 @@
     <div class="col-md-6" style="background-image: url('view/Images/1.jpeg');">
       <form method="post" action="">
         <br><br><br><br><br><br><br><br><br><br><br><br>
-      <button id="signup" class="btn btn-info btn-lg" name="signup">Teacher SignUp</button><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+      <button id="signup" class="btn btn-info btn-lg" name="signup">Administrator SignUp</button><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
       <?php
         if(isset($_POST['signup']))
         {
